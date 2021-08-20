@@ -1,0 +1,23 @@
+.home 
+{
+    background-color: papayawhip;
+    align-content: center;
+    text-align: center;
+    margin:auto;
+}
+
+.addPlayer{
+
+    background-color: lightpink;
+    align-content: center;
+    text-align: center;
+    margin:auto;
+}
+
+.update{
+    background-color: lightsalmon;
+}
+
+.check{
+    background-color: lightyellow;
+}
